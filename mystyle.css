@@ -6,3 +6,19 @@ body {
     color: navy;
     margin-left: 20px;
   }
+
+  .header-splits {
+    color: black;
+  }
+
+  ul {
+    list-style: none;
+ }
+
+ li {
+  font-size: 200%;
+ }
+ 
+ ul li:before {
+    font-size: 170%; /* or whatever */
+ }

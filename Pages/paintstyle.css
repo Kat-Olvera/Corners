@@ -1,0 +1,16 @@
+body {
+    background-color: #eb6b34;
+  }
+  
+  h1 {
+    color: blue;
+    margin-left: 20px;
+  }
+
+  .header-splits {
+    color: black;
+  }
+  
+  h1.inline {
+    color: aliceblue;
+  }
