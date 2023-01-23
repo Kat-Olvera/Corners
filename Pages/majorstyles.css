@@ -1,0 +1,21 @@
+body{
+    background-color: yellow;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .box div {
+    margin-top: 40px;
+    width: auto;
+    height: 400px;
+  }
+        
+
+ .resize {
+    width: 400px;
+    height: auto;
+}
